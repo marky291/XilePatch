@@ -100,3 +100,15 @@
 253 FLD 03062021_Anniversary_Textures.gpf
 254 FLD 04062021_GH_Q_ETC.gpf
 255 FLD 19062021_Battlegrounds_List_Update.gpf // Harley
+257 FLD 19062021_Remove_HD_Textures_01.gpf //Harley
+258 FLD 19062021_Remove_HD_Textures_02.gpf //Harley
+259 FLD 19062021_Remove_HD_Textures_03.gpf //Harley
+260 FLD 19062021_Remove_HD_Textures_04.gpf //Harley
+261 FLD 19062021_Remove_HD_Textures_05.gpf //Harley
+262 FLD 19062021_Remove_HD_Textures_06.gpf //Harley
+263 FLD 19062021_Remove_HD_Textures_07.gpf //Harley
+264 FLD 19062021_Remove_HD_Textures_0801.gpf //Harley
+265 FLD 19062021_Remove_HD_Textures_0802.gpf //Harley
+266 FLD 19062021_Remove_HD_Textures_0803.gpf //Harley
+267 FLD 19062021_Remove_HD_Textures_09.gpf //Harley
+268 FLD 19062021_Remove_HD_Textures_10.gpf //Harley
