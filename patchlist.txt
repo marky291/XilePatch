@@ -112,4 +112,5 @@
 266 FLD 19062021_Remove_HD_Textures_0803.gpf //Harley
 267 FLD 19062021_Remove_HD_Textures_09.gpf //Harley
 268 FLD 19062021_Remove_HD_Textures_10.gpf //Harley
-269 FLD 04072021_BG_GH.gpf //Mitsune~ You're so odd Mark, just use the same name you ass lmao
+//269 FLD 04072021_BG_GH.gpf
+270 FLD 04072021_BG_GH_Quest_Item_Desc.gpf //Mitsune~ You're so odd Mark, just use the same name you ass lmao
