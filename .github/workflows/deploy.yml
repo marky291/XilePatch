@@ -26,7 +26,7 @@ jobs:
           host: ${{ secrets.IP_ADDRESS }}
           port: ${{ secrets.PORT }}
           username: ${{ secrets.USERNAME }}
-          key: ${{ secrets.PRIVATE_KEY }}
+          password: ${{ secrets.PASSWORD }}
           script: |
             cd ${{ secrets.DIRECTORY }}
             git pull
