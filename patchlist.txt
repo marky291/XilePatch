@@ -117,3 +117,4 @@
 271 FLD 18072021_Monster_C.gpf //Mitsune
 272 FLD 24072021_Connection_Changes.gpf //Harley~ No I like this name better 
 273 FLD 29072021_Client_Connection_Update.gpf
+274 FLD 01082021_aura_nickname_item_colors.gpf
