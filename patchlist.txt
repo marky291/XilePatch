@@ -120,3 +120,4 @@
 274 FLD 01082021_aura_nickname_item_colors.gpf
 275 FLD 21092021_HQC2021.gpf
 276 FLD 25092021_MiscAddOns.gpf
+277 FLD 27092021_HCGLB.gpf
