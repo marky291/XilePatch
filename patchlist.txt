@@ -126,3 +126,4 @@
 280 FLD 12112021_GMs&Attend.gpf
 281 FLD 01122021_XmasItems.gpf // X-Mas Item prep, smaller clientside
 282 FLD 01122021_XmasTowns.gpf // X-Mas Maps&Textures, big ass clientside
+283 FLD 02122021_XmasPrt.gpf // Fixed Prontera Map
