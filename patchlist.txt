@@ -128,3 +128,4 @@
 282 FLD 01122021_XmasTowns.gpf // X-Mas Maps&Textures, big ass clientside
 283 FLD 02122021_XmasPrt.gpf // Fixed Prontera Map
 284 FLD 06012022_NY_Wigs.gpf //New Costumes & New Years Hat
+285 FLD 16012022_RookieBades_Sprite.grf // Rookie bade sprite
