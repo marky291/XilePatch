@@ -137,4 +137,5 @@
 291 FLD test.gpf //test patch for new grf--worked
 292 FLD 21012022_neoncube.gpf //Switching patcher to new grf
 293 GRF 27012022_test1.gpf
-294 GRF 27012022_Ethereal_Costumes.gpf
+294 GRF 27012022_Ethereal_Costumes.gpf //Encryption successful, YAY!
+295 FLD 27012022_finaltest.gpf //Changing the data.ini LOL...
