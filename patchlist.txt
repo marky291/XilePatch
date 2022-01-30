@@ -144,3 +144,5 @@
 298 FLD 27012022_ItemInfoError.gpf
 299 FLD 28012022_IzludeHotFix.gpf
 300 FLD 28012022_IIHotFix.gpf
+301 GRF 30012022_CardPreFix.gpf
+302 FLD 30012022_IIHotFix.gpf //Changing data.ini again xile2 first reads in client properly
