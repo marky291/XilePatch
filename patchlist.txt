@@ -147,3 +147,5 @@
 301 GRF 30012022_CardPreFix.gpf
 302 FLD 30012022_IIHotFix.gpf //Changing data.ini again xile2 first reads in client properly
 303 FLD 01022022_Attend_IInfo.gpf
+304 FLD 07022022_LNY22_2.gpf //Item Info
+305 GRF 07022022_LNY22_1.gpf //LNY&VDay Contents
