@@ -150,3 +150,4 @@
 304 FLD 07022022_LNY22_2.gpf //Item Info
 305 GRF 07022022_LNY22_1.gpf //LNY&VDay Contents
 306 GRF 07022022_itemmove.gpf //Item Move.txt for npc sell
+307 GRF 07022022_itemmove2.gpf //Item move AGAIN RAH
