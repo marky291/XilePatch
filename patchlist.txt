@@ -151,3 +151,5 @@
 305 GRF 07022022_LNY22_1.gpf //LNY&VDay Contents
 306 GRF 07022022_itemmove.gpf //Item Move.txt for npc sell
 307 GRF 07022022_itemmove2.gpf //Item move AGAIN RAH
+308 GRF 22022022_HWShowdown.gpf //Costume for HW Showdown
+309 FLD 22022022_HWShowdownII.gpf //Item Info
