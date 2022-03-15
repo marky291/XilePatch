@@ -154,3 +154,5 @@
 308 GRF 22022022_HWShowdown.gpf //Costume for HW Showdown
 309 FLD 22022022_HWShowdownII.gpf //Item Info
 310 FLD 02032022_MarAttend.gpf //March Attendance
+311 GRF 15032022_MarchContent.gpf //Wigs & MVP Badges
+312 FLD 15032022_MarchContentII.gpf //March ItemInfo
