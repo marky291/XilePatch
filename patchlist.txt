@@ -156,3 +156,4 @@
 310 FLD 02032022_MarAttend.gpf //March Attendance
 311 GRF 15032022_MarchContent.gpf //Wigs & MVP Badges
 312 FLD 15032022_MarchContentII.gpf //March ItemInfo
+313 GRF 16032022_DevilSqaure.gpf //DevilSquare NPC & WAV
