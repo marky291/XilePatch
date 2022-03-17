@@ -157,3 +157,5 @@
 311 GRF 15032022_MarchContent.gpf //Wigs & MVP Badges
 312 FLD 15032022_MarchContentII.gpf //March ItemInfo
 313 GRF 16032022_DevilSqaure.gpf //DevilSquare NPC & WAV
+314 GRF 17032022_DSH.gpf //DevilSquare Helm
+315 FLD 17032022_DSHII.gpf //DevilSquare ItemInfo
