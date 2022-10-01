@@ -170,3 +170,6 @@
 324 FLD 18032022_LUBFix.gpf //New Lubs back into data folder
 325 FLD 01072022_AttendenceUpdate.gpf // attendance update
 326 FLD 01072022_UpdateMenuGraphics.gpf // background update
+327 GRF 01102022_OctoberPatch.gpf // Halloween Patch 1 to GRF (Encrypted)
+328 GRF 01102022_OctoberPatch2.gpf // Halloween Patch 2 to GRF (Encrypted)
+329 FLD 01102022_OctoberPatch3.gpf // Halloween Patch ItemInfo & Lua's (Not Encrypted)
