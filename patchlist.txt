@@ -173,3 +173,5 @@
 327 GRF 01102022_OctoberPatch.gpf // Halloween Patch 1 to GRF (Encrypted)
 328 GRF 01102022_OctoberPatch2.gpf // Halloween Patch 2 to GRF (Encrypted)
 329 FLD 01102022_OctoberPatch3.gpf // Halloween Patch ItemInfo & Lua's (Not Encrypted)
+330 GRF 01102022_OctoberPatch5.gpf // Halloween Patch 2 to GRF (Encrypted)
+331 FLD 01102022_OctoberPatch4.gpf // Halloween Patch ItemInfo & Lua's (Not Encrypted)
