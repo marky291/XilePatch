@@ -5,7 +5,7 @@
 //You can also delete files from the data folder.
 // 3	FLD	data\filenametodelete.xml*
 // //Deleting files inside a GRF archive is still supported
-// 4	GRF	data\i_will_delete_you.txt*
+// 4	GRF	data\i_will_delete_you.txt* 
 
 162	FLD	01102020_acceii.gpf
 163	FLD	02102020_title_menu_music.gpf
