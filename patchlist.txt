@@ -178,3 +178,4 @@
 332 GRF 03102022_OctoberLogin.gpf // Halloween Login BG (Encrypted)
 333 GRF 07042023_April_Update.gpf // April to GRF (Encrypted)
 334 FLD 07042023_April_Update_II.gpf // April ItemInfo & Lua's (Not Encrypted)
+335 FLD 07042023_April_Update_III.gpf // April ItemInfo (Not Encrypted)
