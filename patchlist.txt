@@ -179,3 +179,5 @@
 333 GRF 07042023_April_Update.gpf // April to GRF (Encrypted)
 334 FLD 07042023_April_Update_II.gpf // April ItemInfo & Lua's (Not Encrypted)
 335 FLD 07042023_April_Update_III.gpf // April ItemInfo (Not Encrypted)
+336 GRF 30062023_June_Update.gpf // June to GRF (Encrypted)
+337 FLD 30062023_June_Update_II.gpf // June ItemInfo & Lua's (Not Encrypted)
