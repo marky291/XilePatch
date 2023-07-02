@@ -181,3 +181,4 @@
 335 FLD 07042023_April_Update_III.gpf // April ItemInfo (Not Encrypted)
 336 GRF 30062023_June_Update.gpf // June to GRF (Encrypted)
 337 FLD 30062023_June_Update_II.gpf // June ItemInfo & Lua's (Not Encrypted)
+338 FLD 02072023_July_Update_ATD.gpf // July Attendance (Not Encrypted)
