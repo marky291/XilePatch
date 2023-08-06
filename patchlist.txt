@@ -184,3 +184,4 @@
 338 FLD 02072023_July_Update_ATD.gpf // July Attendance (Not Encrypted)
 339 GRF 01082023_LoginWallpaper.gpf // Mark
 340 FLD 05082023_August_Update_ATD_II.gpf // August Attendance (Not Encrypted)
+341 GRF 06082023_August_Update.gpf // August to GRF (Encrypted)
