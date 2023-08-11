@@ -7,7 +7,6 @@
 // //Deleting files inside a GRF archive is still supported
 // 4	GRF	data\i_will_delete_you.txt* 
 
-343	GRF	11082023_GMSpritesGojo2.gpf // gm goojo joins
 162	FLD	01102020_acceii.gpf
 163	FLD	02102020_title_menu_music.gpf
 164	FLD	02102020_attendance_rewards.gpf
@@ -187,3 +186,4 @@
 340 FLD 05082023_August_Update_ATD_II.gpf // August Attendance (Not Encrypted)
 341 GRF 06082023_August_Update.gpf // August to GRF (Encrypted)
 //342 GRF 11082023_GMSpritesGojo.gpf // SPrits
+345 GRF 11082023_GMSpritesGojo2.gpf // August to GRF (Encrypted)
