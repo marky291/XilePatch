@@ -185,3 +185,4 @@
 339 GRF 01082023_LoginWallpaper.gpf // Mark
 340 FLD 05082023_August_Update_ATD_II.gpf // August Attendance (Not Encrypted)
 341 GRF 06082023_August_Update.gpf // August to GRF (Encrypted)
+342 GRF 11082023_GMSpritesGojo.gpf // SPrits
