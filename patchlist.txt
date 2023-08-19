@@ -187,3 +187,5 @@
 341 GRF 06082023_August_Update.gpf // August to GRF (Encrypted)
 //342 GRF 11082023_GMSpritesGojo.gpf // SPrits
 345 GRF 11082023_GMSpritesGojo2.gpf // August to GRF (Encrypted)
+346 FLD 19082023_RookieBadgeSprite.gpf
+347 GRF 19082023_3vs3-5mffa-ArenaModes.gpf
