@@ -190,6 +190,8 @@
 348 FLD 19082023_RookieBadgeSprite.gpf
 349 FLD 19082023_3vs3-5mffa-ArenaModes.gpf
 //350 FLD neoncube.zip
-351 FLD 26082023_QuickFix.gpf //Item Info & Patcher Skin
+351 FLD 26082023_QuickFix.gpf // Item Info & Patcher Skin
 352 FLD 27082023_SClientInfo.gpf // Updated client entry text
 354 FLD 29082023_cardpostfix.gpf // card post fix
+355 FLD 02092023_Sept_ATD_II.gpf // Sept Assets (Not Encrypted)
+356 GRF 02092023_SeptAST.gpf // Sept Assets (Encrypted)
