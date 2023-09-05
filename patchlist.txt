@@ -196,3 +196,5 @@
 355 FLD 02092023_Sept_ATD_II.gpf // Sept Assets (Not Encrypted)
 356 GRF 02092023_SeptAST.gpf // Sept Assets (Encrypted)
 358 FLD 02092023_PatchConfiguration.gpf // patch notice change
+359 GRF 05092023_default_aura.gpf
+360 FLD 05092023_default_aura.gpf
