@@ -198,3 +198,4 @@
 358 FLD 02092023_PatchConfiguration.gpf // patch notice change
 359 GRF 05092023_default_aura.gpf
 360 FLD 05092023_default_aura.gpf
+361 GRF 11092023_new_connection.gpf
