@@ -203,3 +203,4 @@
 363 FLD 18092023_soundfix.gpf
 364 FLD 18092023_Sept_Cosmetics_II.gpf // September ItemInfo (NotEncrypted)
 365 GRF 18092023_Sept_Cosmetics.gpf // September Assets (Encrypted)
+366 GRF 18092023_Sept_Cosmetics_HF.gpf // Sept HotFix
