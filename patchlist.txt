@@ -206,3 +206,5 @@
 366 GRF 18092023_Sept_Cosmetics_HF.gpf // Sept HotFix
 367 FLD 18092023_Sept_Cosmetics_HF2.gpf // Sept HF2 (Not Encrypted)
 368 GRF 18092023_Sept_Cosmetics_HF2-1.gpf // Sept HF2 (Encrypted)
+369 FLD 25092023_Sept_Cosmetics_HatEffectsFLD.gpf // September Attendance & II (Not Encrypted)
+370 GRF 25092023_Sept_Cosmetics_HatEffects.gpf // September Cosmetics (Encrypted)
