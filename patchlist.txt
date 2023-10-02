@@ -208,3 +208,5 @@
 368 GRF 18092023_Sept_Cosmetics_HF2-1.gpf // Sept HF2 (Encrypted)
 369 FLD 25092023_Sept_Cosmetics_HatEffectsFLD.gpf // September Attendance & II (Not Encrypted)
 370 GRF 25092023_Sept_Cosmetics_HatEffects.gpf // September Cosmetics (Encrypted)
+371 FLD 03102023_Oct_AssetsFLD.gpf // Oct II & Patcher Skin (Not Encrypted)
+372 GRF 03102023_Oct_Assets.gpf // Oct Assets (Encrypted)
