@@ -210,3 +210,5 @@
 370 GRF 25092023_Sept_Cosmetics_HatEffects.gpf // September Cosmetics (Encrypted)
 371 FLD 03102023_Oct_AssetsFLD.gpf // Oct II & Patcher Skin (Not Encrypted)
 372 GRF 03102023_Oct_Assets.gpf // Oct Assets (Encrypted)
+373 FLD 05102023_Loaders.gpf // Loaders
+374 GRF 05102023_Loaders.gpf // Loaders
