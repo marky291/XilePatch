@@ -216,3 +216,5 @@
 376 GRF 08102023_sealed_items.gpf
 377 FLD 21102023_GM_Inoxia.gpf // gm cloth
 378 GRF 21102023_GM_Inoxia.gpf // gm cloth
+379 FLD 22102023_Oct_QFix2F.gpf // HotFix for Sealed Card Errors (Not Encrypted)
+380 GRF 22102023_Oct_QFix2G.gpf // HotFix for Sealed Card Errors (Encrypted)
