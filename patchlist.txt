@@ -220,3 +220,5 @@
 380 GRF 22102023_Oct_QFix2G.gpf // HotFix for Sealed Card Errors (Encrypted)
 381 GRF 21102023_GM_Ethereal.gpf
 382 FLD 21102023_GM_Ethereal.gpf
+383 FLD 24102023_OctHF_F.gpf // HotFix Sealmaster & II (Not Encrypted)
+384 GRF 24102023_OctHT_G.gpf // HotFix Sealmaster NPC (Encrypted)
