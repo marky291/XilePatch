@@ -222,3 +222,8 @@
 382 FLD 21102023_GM_Ethereal.gpf
 383 FLD 24102023_OctHF_F.gpf // HotFix Sealmaster & II (Not Encrypted)
 384 GRF 24102023_OctHT_G.gpf // HotFix Sealmaster NPC (Encrypted)
+385 FLD Instance_CS_F.gpf // Folder Lua's (Not Encrypted)
+386 GRF Instance_CS_1G.gpf // Instance Resource 1 (Encrypted)
+387 GRF Instance_CS_2G.gpf // Instance Resource 2 (Encrypted)
+388 GRF Instance_CS_3G.gpf // Instance Resource 3 (Encrypted)
+389 GRF Instance_CS_4G.gpf // Instance Resource 4 (Encrypted)
