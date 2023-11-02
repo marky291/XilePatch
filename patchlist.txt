@@ -227,3 +227,5 @@
 387 GRF Instance_CS_2G.gpf // Instance Resource 2 (Encrypted)
 388 GRF Instance_CS_3G.gpf // Instance Resource 3 (Encrypted)
 389 GRF Instance_CS_4G.gpf // Instance Resource 4 (Encrypted)
+390 FLD 02112023_GMSuit_F.gpf // Lemonade- GM suit & Attendance (Not Encrypted)
+391 GRF 02112023_GMSuit_G.gpf // Lemonade- GM Suit (Encrypted)
