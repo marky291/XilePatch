@@ -229,3 +229,5 @@
 389 GRF Instance_CS_4G.gpf // Instance Resource 4 (Encrypted)
 390 FLD 02112023_GMSuit_F.gpf // Lemonade- GM suit & Attendance (Not Encrypted)
 391 GRF 02112023_GMSuit_G.gpf // Lemonade- GM Suit (Encrypted)
+392 FLD 04112023_Lunar_F.gpf // Lunar New Year (Not Encrypted)
+393 GRF 04112023_Lunar_G.gpf // Lunar New Year (Encrypted)
