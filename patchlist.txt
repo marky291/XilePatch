@@ -231,3 +231,5 @@
 391 GRF 02112023_GMSuit_G.gpf // Lemonade- GM Suit (Encrypted)
 392 FLD 04112023_Lunar_F.gpf // Lunar New Year (Not Encrypted)
 393 GRF 04112023_Lunar_G.gpf // Lunar New Year (Encrypted)
+394 FLD 09112023_NewbieHub_F.gpf // Newbie Hub HotFix (Not Encrypted)
+395 GRF 09112023_NewbieHub_G.gpf // Newbie Hub HotFix (Encrypted)
