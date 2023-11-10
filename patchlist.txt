@@ -233,3 +233,5 @@
 393 GRF 04112023_Lunar_G.gpf // Lunar New Year (Encrypted)
 394 FLD 09112023_NewbieHub_F.gpf // Newbie Hub HotFix (Not Encrypted)
 395 GRF 09112023_NewbieHub_G.gpf // Newbie Hub HotFix (Encrypted)
+396 FLD 09112023_GwenAssets_F.gpf // Gwen Assets (Not Encrypted)
+397 GRF 09112023_GwenAssets_G.gpf // Gwen Assets (Encrypted)
