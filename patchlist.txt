@@ -235,3 +235,5 @@
 395 GRF 09112023_NewbieHub_G.gpf // Newbie Hub HotFix (Encrypted)
 396 FLD 09112023_GwenAssets_F.gpf // Gwen Assets (Not Encrypted)
 397 GRF 09112023_GwenAssets_G.gpf // Gwen Assets (Encrypted)
+398 FLD 11112023_TuLaAssets_F.gpf // [C] Flying Angel & Evil Wing Quest Assets (Not Encrypted)
+399 GRF 11112023_TuLaAssets_G.gpf // [C] Flying Angel & Evil Wing Quest Assets (Encrypted)
