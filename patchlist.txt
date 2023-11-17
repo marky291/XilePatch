@@ -241,3 +241,4 @@
 //401 GRF 16112023_DecAssets_G.gpf // X-Mas Assets (Encrypted)
 402 FLD 16112023_DecAssets_F.gpf // X-Mas Assets (Not Encrypted)
 403 GRF 16112023_DecAssets_G.gpf // X-Mas Assets (Encrypted)
+404 FLD 17112023_MissingChatWindowFix.gpf // Missing Chat Window Fix
