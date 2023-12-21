@@ -244,3 +244,5 @@
 404 FLD 17112023_MissingChatWindowFix.gpf // Missing Chat Window Fix
 405 FLD 131223_HotDetails_F.gpf // Quick Update X-Mas: ON (Not Encrypted)
 406 GRF 13122023_HotDetails_G.gpf // Quick Update X-Mas: ON (Encrypted)
+407 FLD 21122023_DecAssetsFin_F.gpf // Dec Update: Sprite Hotfix (Not Encrypted)
+408 GRF 21122023_DecAssetsFin_G.gpf // Dec Update: Sprite Hotfix (Encrypted)
