@@ -248,3 +248,4 @@
 408 GRF 21122023_DecAssetsFin_G.gpf // Dec Update: Sprite Hotfix (Encrypted)
 409 FLD 17012024_GM_Akumu.gpf // GM SPrite
 410 GRF 17012024_GM_Akumu.gpf // GM SPrite
+411 FLD 17012024_NameChangerItem.gpf
