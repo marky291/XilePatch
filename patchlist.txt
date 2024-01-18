@@ -249,3 +249,5 @@
 409 FLD 17012024_GM_Akumu.gpf // GM SPrite
 410 GRF 17012024_GM_Akumu.gpf // GM SPrite
 411 FLD 17012024_NameChangerItem.gpf
+412 FLD 18012023_NewGMTwice.gpf
+413 GRF 18012023_NewGMTwice.gpf
