@@ -255,3 +255,5 @@
 415 GRF 280120242_GMSprite.gpf
 //416 FLD 01022024_PatcherSkin.gpf
 417 FLD 01022024_PatcherSkin2.gpf
+418 FLD 01022024_OrelixItem.gpf
+419 GRF 01022024_OrelixItem.gpf
