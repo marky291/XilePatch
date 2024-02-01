@@ -254,3 +254,4 @@
 414 FLD 280120242_GMSprite.gpf
 415 GRF 280120242_GMSprite.gpf
 //416 FLD 01022024_PatcherSkin.gpf
+417 FLD 01022024_PatcherSkin2.gpf
