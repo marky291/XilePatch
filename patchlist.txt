@@ -263,3 +263,5 @@
 423 FLD 04022024_GepardPatch.gpf
 424 FLD 04022024_GepardPatch.gpf
 425 FLD 0802024_TrackpadFix.gpf
+426 FLD 0802024_NewGuildSkills.gpf
+427 GRF 0802024_NewGuildSkills.gpf
