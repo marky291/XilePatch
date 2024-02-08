@@ -260,3 +260,4 @@
 420 FLD 02022024_RemoveWindowPopUpDefault.gpf
 421 FLD 04022024_GepardPatch.gpf
 422 FLD 04022024_OptionInfo.gpf
+423 FLD 0802024_TrackpadFix.gpf
