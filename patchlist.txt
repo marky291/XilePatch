@@ -265,3 +265,4 @@
 425 FLD 0802024_TrackpadFix.gpf
 426 FLD 0802024_NewGuildSkills.gpf
 427 GRF 0802024_NewGuildSkills.gpf
+428 FLD 11022024_ItemInfo.gpf
