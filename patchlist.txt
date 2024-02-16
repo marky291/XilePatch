@@ -270,3 +270,5 @@
 430 FLD 13022024_NewRefineMechanics.gpf
 431 FLD 13022024_UberCoinsAndCelestialWings.gpf
 432 GRF 13022024_UberCoinsAndCelestialWings.gpf
+433 GRF 16022014_GMCloth.gpf
+434 FLD 16022014_GMCloth.gpf
