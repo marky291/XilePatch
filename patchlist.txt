@@ -279,3 +279,4 @@
 439 FLD 25022024_TestServer.gpf
 440 FLD 27022024_ItemPatch.gpf
 441 FLD 27022024_FallenCardChange.gpf
+442 FLD 270220242_FallenCardChange.gpf
