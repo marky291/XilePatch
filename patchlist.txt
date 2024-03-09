@@ -280,3 +280,8 @@
 440 FLD 27022024_ItemPatch.gpf
 441 FLD 27022024_FallenCardChange.gpf
 442 FLD 270220242_FallenCardChange.gpf
+443 GRF 270220242_FallenCardChange.gpf
+444 FLD 09032024_NewRefinementsItems1.gpf
+445 GRF 09032024_NewRefinementsItems1.gpf
+446 FLD 09032024_NewRefinementsItems2.gpf
+447 GRF 09032024_NewRefinementsItems2.gpf
