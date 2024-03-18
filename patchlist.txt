@@ -286,3 +286,7 @@
 446 FLD 09032024_NewRefinementsItems2.gpf
 447 GRF 09032024_NewRefinementsItems2.gpf
 448 FLD 11032024_OptionInfoSettings.gpf
+449 FLD 1803202401_RevampedDescriptions.gpf
+450 GRF 1803202401_RevampedDescriptions.gpf
+451 FLD 1803202402_RevampedDescriptions.gpf
+452 GRF 1803202402_RevampedDescriptions.gpf
