@@ -300,3 +300,4 @@
 460 GRF 0205202401_RelicCostumeSets.gpf
 461 FLD 0205202401_RelicCostumeSets_Ex.gpf
 462 FLD 0205202401_RelicCostumeSets.gpf
+464 GRF 27052024_damage_counter.gpf
