@@ -302,3 +302,5 @@
 462 FLD 0205202401_RelicCostumeSets.gpf
 464 GRF 27052024_damage_counter.gpf
 465 FLD 19062024_NDL_Fix.gpf
+468 FLD 1906202402_GmCloths.gpf
+469 GRF 1906202402_GmCloths.gpf
