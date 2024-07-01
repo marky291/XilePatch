@@ -308,3 +308,5 @@
 471 FLD 20062024_GmCloths.gpf
 472 FLD 19062024_NDL_Fix.gpf
 473 FLD 220602024_GepardUpdate.gpf
+474 FLD 01072024_ItemInfo.gpf
+475 FLD 01072024_ItemsGarmetsSprites.gpf
