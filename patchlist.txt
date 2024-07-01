@@ -310,3 +310,4 @@
 473 FLD 220602024_GepardUpdate.gpf
 474 FLD 01072024_ItemInfo.gpf
 475 FLD 01072024_ItemsGarmetsSprites.gpf
+476 FLD 01072024_SystemIteminfo.gpf
