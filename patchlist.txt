@@ -314,3 +314,4 @@
 477 GRF 01072024_ItemsGarmetsSprites.gpf
 480 GRF 18102024_ItemUpdate.gpf
 482 FLD 18102024_ItemUpdateSystem.gpf
+483 FLD 480 GRF 18102024_ItemUpdate.gpf
