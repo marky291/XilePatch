@@ -319,3 +319,5 @@
 485 FLD 29102024_Halloween_Items.gpf
 486 GRF 29102024_Halloween_Items.gpf
 487 FLD 30102024_HalloweenItemCorrection.gpf
+488 FLD 30102024_HalloweenItemCorrectionLua.gpf
+489 GRF 30102024_HalloweenItemCorrectionLua.gpf
