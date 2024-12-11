@@ -323,4 +323,4 @@
 489 GRF 30102024_HalloweenItemCorrectionLua.gpf
 490 FLD 30102024_HalloweenItemCorrection2.gpf
 491 GRF 30102024_HalloweenItemCorrection2.gpf
-492 GRF 30102024_HalloweenItemCorrection2.gpf
+492 FLD 07122024_NewItemsAndHalloweenItemFix.gpf
