@@ -327,4 +327,4 @@
 493 GRF 20241212_GRF2NewSprites_Files.gpf
 494 FLD 20241212_NewItemsLua_Files.gpf
 495 FLD 20241222_ChristmasQuestItem.gpf
-460 FLD 20241226_NewGuildPack.gpf
+496 FLD 20241226_NewGuildPack.gpf
