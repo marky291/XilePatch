@@ -337,3 +337,4 @@
 503 GRF 2025010_AndroidItemLuaFix.gpf
 504 GRF 2025010_AndroidItemLuaFixFolder.gpf
 505 FLD 2025010_AndroidItemLuaFixFolder2.gpf
+506 FLD 2025010_AndroidItemLuaFixFolder3.gpf
