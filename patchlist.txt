@@ -334,3 +334,5 @@
 500 GRF 20250107_NewItemsGRFSprite3.gpf
 501 FLD 20250107_GMSprite.gpf
 502 GRF 20250107_GMSprite.gpf
+503 GRF 2025010_AndroidItemLuaFix.gpf
+504 GRF 2025010_AndroidItemLuaFixFolder.gpf
