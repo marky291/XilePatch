@@ -341,3 +341,4 @@
 507 FLD 20250109_AndroidItemLuaFixFolder4.gpf
 508 FLD 20250110_DescriptionFix.gpf
 509 GRF 20250115_SpriteFix.gpf
+510 GRF 20250118_cardbmp_add.gpf
