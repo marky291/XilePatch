@@ -342,3 +342,5 @@
 508 FLD 20250110_DescriptionFix.gpf
 509 GRF 20250115_SpriteFix.gpf
 510 GRF 20250118_cardbmp_add.gpf
+511 GRF 20250201_NewSpriteToGRF.gpf
+512 FLD 20250201_LuaToFolders.gpf
