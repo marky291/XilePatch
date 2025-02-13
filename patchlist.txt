@@ -345,3 +345,4 @@
 511 GRF 20250201_NewSpriteToGRF.gpf
 512 FLD 20250201_LuaToFolders.gpf
 513 FLD 20250202_LubFileToFolders.gpf
+514 FLD 20250213_itemInfoLub.gpf
