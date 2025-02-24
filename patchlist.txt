@@ -349,3 +349,5 @@
 515 FLD 20250213__fix_itemInfoLub.gpf
 516 GRF 20250214__fix_itemInfoLub.gpf
 517 FLD 20250214_Android_itemInfoLub.gpf
+518 GRF 20250224_NewItemsToGRF.gpf
+519 FLD 20250224_FoldersItemLub.gpf
