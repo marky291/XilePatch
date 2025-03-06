@@ -354,3 +354,5 @@
 520 FLD 24022025_GepardUpdate.gpf
 521 FLD 20250302_LuaFiles.gpf
 522 GRF 20250302_Marchsprites.gpf
+523 FLD 20250306_LuaFiles.gpf
+524 GRF 20250306_MoreSprites.gpf
