@@ -358,3 +358,5 @@
 524 GRF 20250306_MoreSprites.gpf
 525 FLD 20250307_ItemDescriptionFix.gpf
 526 GRF 20250406_EndlessCellarMaps.gpf
+527 GRF 20250409_April2025.gpf
+528 FLD 20250413_April2025.gpf
