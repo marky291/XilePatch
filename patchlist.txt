@@ -365,3 +365,5 @@
 531 FLD 20250428_April2025_update.gpf
 532 FLD 20250504_May2025_update.gpf
 533 GRF 20250601_June2025_Update.gpf
+534 GRF 20250601_June2025MoreItems_Update.gpf
+535 FLD 20250601_June2025_ClientSystemInfo.gpf
