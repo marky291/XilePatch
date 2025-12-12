@@ -378,13 +378,13 @@
 544 GRF 20250805_August2025_Folder.gpf
 545 GRF 20250911_September2025_GRF3.gpf
 546 FLD 20250911_September2025_Folder.gpf
-
 547 GRF 20251010_October2025GRF_live2.gpf
 548 GRF 20251010_October2025GRF_live.gpf
 549 GRF 20251010_October2025GRF_live3.gpf
 550 GRF 20251010_October2025GRF_map_live4.gpf
 551 FLD 20251010_October2025folder.gpf
 552 GRF 20251020_OctoberMissingGRFs.gpf
-
 553 FLD 20251102_NovemberFolder.gpf
 554 GRF 20251102_NovemberGRF.gpf
+555 FLD 20251206_xmasProntera And Items_Folder.gpf
+556 GRF 20251206_December2025GRF.gpf
