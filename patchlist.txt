@@ -386,5 +386,5 @@
 552 GRF 20251020_OctoberMissingGRFs.gpf
 553 FLD 20251102_NovemberFolder.gpf
 554 GRF 20251102_NovemberGRF.gpf
-555 FLD 20251206_xmasProntera And Items_Folder.gpf
+555 FLD 20251206_xmasPronteraAndItems_Folder.gpf
 556 GRF 20251206_December2025GRF.gpf
