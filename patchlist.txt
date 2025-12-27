@@ -388,3 +388,4 @@
 554 GRF 20251102_NovemberGRF.gpf
 555 FLD 20251206_xmasPronteraAndItems_Folder.gpf
 556 GRF 20251206_December2025GRF.gpf
+557 FLD 20251226_Neocube_config_folder.gpf
